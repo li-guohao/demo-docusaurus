@@ -29,3 +29,15 @@ This command generates static content into the `build` directory and can be serv
 ```
 yarn docusaurus docs:version 2.0
 ```
+
+### generate i18n json config
+
+```
+yarn write-translations --locale zh
+```
+
+### build i18n dist 
+
+```
+yarn build --locale zh
+```
