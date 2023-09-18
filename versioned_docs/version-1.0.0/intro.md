@@ -8,7 +8,7 @@ Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Version
 
-2.0
+1.0.0
 
 ![docusaurus](/img/docusaurus.png)
 
