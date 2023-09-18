@@ -275,5 +275,11 @@
   "theme.tags.tagsPageTitle": {
     "message": "标签",
     "description": "The title of the tag list page"
+  },
+  "page.index.introduce": {
+    "message": "专注于ACGMN的内容管家(CMS)"
+  },
+  "page.index.button.start.label": {
+    "message": "查看文档 - 5min ⏱️ "
   }
 }

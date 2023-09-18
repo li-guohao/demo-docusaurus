@@ -275,5 +275,11 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "page.index.introduce": {
+    "message": "focused Content Management System (CMS)"
+  },
+  "page.index.button.start.label": {
+    "message": "Reviewing documentation - 5 min ⏱️"
   }
 }
