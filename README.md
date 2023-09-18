@@ -23,3 +23,9 @@ yarn build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+### publish docs version
+
+```
+yarn docusaurus docs:version 2.0
+```
